@@ -5,22 +5,22 @@
   # ⚡ VIORA PACKHUB
   ### *The Ultimate Minecraft Resource Pack, Shaders, Mods, Clients & Tools Hub*
 
-  [![Release](https://img.shields.io/badge/Release-v1.0.0%20Pro-8b5cf6?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/1-wraith/viorapackhub/releases)
+  [![Release](https://img.shields.io/badge/Release-v1.1.0%20Pro-8b5cf6?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/1-wraith/viorapackhub/releases)
   [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20x64-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/1-wraith/viorapackhub/releases)
   [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F0%20Clean%20Security-10b981?style=for-the-badge&logo=virustotal&logoColor=white)](https://github.com/1-wraith/viorapackhub)
   [![Discord](https://img.shields.io/badge/Community-VioraLand%20Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vioraland)
   [![Developer](https://img.shields.io/badge/Developer-Wraith%20(@.1wraith)-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/vioraland)
 
   <p align="center">
-    <b>Viora PackHub</b>, Minecraft oyuncuları ve PvP tutkunları için özel olarak geliştirilmiş en kapsamlı ve modern paket yöneticisi, dönüştürücü ve optimizasyon merkezidir.
+    <b>Viora PackHub</b>, Minecraft oyuncuları ve PvP tutkunları için özel olarak geliştirilmiş <b>4.648+</b> paketlik en kapsamlı ve modern paket yöneticisi, dönüştürücü ve optimizasyon merkezidir.
   </p>
 
   <p align="center">
-    <a href="https://github.com/1-wraith/viorapackhub/releases/download/v1.0.0/Viora.PackHub-Setup-1.0.0.exe">
+    <a href="https://github.com/1-wraith/viorapackhub/releases/download/v1.1.0/Viora.PackHub-Setup-1.1.0.exe">
       <img src="https://img.shields.io/badge/📥%20İNDİR-Setup%20Kurulum%20(.exe)-8b5cf6?style=for-the-badge" alt="Kurulum Dosyası İndir">
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/1-wraith/viorapackhub/releases/download/v1.0.0/Viora.PackHub-Portable-1.0.0.exe">
+    <a href="https://github.com/1-wraith/viorapackhub/releases/download/v1.1.0/Viora.PackHub-Portable-1.1.0.exe">
       <img src="https://img.shields.io/badge/🚀%20İNDİR-Taşınabilir%20Portable%20(.exe)-06b6d4?style=for-the-badge" alt="Taşınabilir Sürüm İndir">
     </a>
   </p>
@@ -37,30 +37,43 @@
 
 ## ✨ Öne Çıkan Özellikler
 
-### 💎 1. 4.000+ Devasa Paket Arşivi
+### 💎 1. 4.648+ Devasa Paket Arşivi (+615 Yeni Paket)
 - **Crystal PvP & Mace (1.21)**: Özel kristal, totem, patlama animasyonları ve en yeni Minecraft 1.21 Heavy Mace paketleri.
 - **Sword, Axe, UHC & Bedwars**: Rekabetçi PvP'de üstünlük sağlayan düşük gecikmeli, optimize texture pack'ler.
 - **Diapot & Nethpot**: Özel iksir parçacıkları, netherite setler ve net pot efektleri.
 - **Essential Overlays**: Fullbright, Düşük Ateş (Low Fire), Kısa Kılıç (Short Swords), Saydam Envanter (Clear GUI) ve Özel Gökyüzü (Custom Skies).
 - **Shaders & Modlar**: Complementary, BSL, Iris, Fabric ve Forge performans modları tek bir çatı altında.
 
-### 🔄 2. Çift Yönlü Texture Pack Dönüştürücü (Converter)
+### 🩺 2. Minecraft Library Doctor & Duplicate Cleaner (Akıllı Disk Temizleyici)
+- **Çift Dosya Avcısı**: `.minecraft/resourcepacks` dizinindeki aynı paket kopyalarını (`Pack (1).zip`, `Pack_copy.zip`) tespit eder.
+- **Bozuk Arşiv Denetimi**: Minecraft'ı çökertebilecek yarım kalmış, hasarlı zip arşivlerini ayrıştırır.
+- **1-Tıkla Disk Temizliği**: Seçilen gereksiz kopyaları silerek saniyeler içinde **5-20 GB** disk alanı kazandırır.
+
+### 🧩 3. Granular Pack Merger (Modüler Hibrit Paket Birleştirici)
+- **Bileşen Bazlı Seçim**: İki veya daha fazla paketten sadece istediğiniz parçaları (örneğin: Paket A'dan *Kılıçlar & Totem*, Paket B'den *Zırhlar & Skybox*, Paket C'den *GUI & Sesler*) seçerek kendi rüya hibrit paketinizi üretin!
+- **Otomatik Manifest & Zip Üretimi**: Tek tıkla birleştirilmiş yeni paketin doğrudan Minecraft klasörüne kaydedilir.
+
+### 🏷️ 4. Hızlı Filtre Hapları & Discord Share Kartı
+- **Hızlı Filtre Hapları**: Arama çubuğunun altındaki `16x`, `32x`, `64x`, `128x+` ve renk etiketleriyle anında filtreleme.
+- **Discord Share Embed**: Paket detay penceresinden Discord topluluğunuz için tek tıkla şık indirme kartı kopyalama.
+
+### 🎨 5. 5 Farklı Ultra-Modern UI Teması
+- **Viora Cyberpunk** (Varsayılan Mor/Pembe Neon)
+- **Midnight Obsidian** (Saf Siyah/Gold)
+- **Emerald Matrix** (Hacker Yeşil/Zümrüt)
+- **Sapphire Deep** (Okyanus Mavisi)
+- **Ruby Crimson** (Alev Kırmızısı)
+
+### 🔄 6. Çift Yönlü Texture Pack Dönüştürücü (Converter)
 Texture pack'leri sürümler arasında dönüştürmek artık saniyeler sürüyor!
 - **Java ⟷ Java (Yükseltme & Düşürme)**: 1.8.9'dan 1.21.4+'e kadar tüm Minecraft sürümleri arasında `pack_format` ve dizin yapısı otomatik uyarlanır.
 - **Java ⟷ Bedrock (`.mcpack`)**: Java paketlerini Bedrock uyumlu `manifest.json` ve doku haritalarına dönüştürür.
 - **Akıllı Doku Eşleme**: Kılıçlar, zırhlar, partiküller ve blok isimleri hedef sürüme göre dönüştürülür.
 
-![Texture Pack Converter](assets/converter.png)
-
-### 🎯 3. Dahili Crosshair & Doğrudan Enjektör (Direct Injector)
+### 🎯 7. Dahili Crosshair & Doğrudan Enjektör (Direct Injector)
 - **78+ HD Reticle Arşivi**: Statik nokta, daire, dinamik artı ve açılı nişangahlar.
 - **1-Tıkla Pakete Enjekte Et**: Seçtiğin crosshair'ı istediğin resource pack'in `icons.png` dosyasına doğrudan yazar; zip açıp kapatma zahmeti yok!
 - **Çoklu Çözünürlük**: 16x, 32x, 64x ve 128x paketlerle tam uyumlu piksel hizalama.
-
-### 🧩 4. Katmanlı Paket Birleştirici (Pack Merger)
-- **Sürükle & Bırak**: Birden fazla resource pack'i katman önceliğine göre sırala.
-- **Çakışma Önleme**: Üstteki katmanın dokuları (örneğin özel kılıçlar) alttaki katmanın dokularıyla (örneğin zemin ve gökyüzü) kusursuzca harmanlanır.
-- **Otomatik Manifest & Zip Üretimi**: Tek tıkla birleştirilmiş yeni paketin doğrudan Minecraft klasörüne kaydedilir.
 
 ### 🎮 5. Akıllı Launcher Profil Yöneticisi
 Viora PackHub sisteminizde yüklü olan tüm popüler launcher'ları otomatik olarak tespit eder:
@@ -101,12 +114,12 @@ Viora PackHub, oyuncuların güvenliğini en üst düzeyde tutmak amacıyla **s�
 ## 📥 İndirme & Kurulum
 
 ### 1. Kurulum Sihirbazı (Setup `.exe`)
-1. [Releases](https://github.com/1-wraith/viorapackhub/releases) sayfasından `Viora PackHub-Setup-1.0.0.exe` dosyasını indirin.
+1. [Releases](https://github.com/1-wraith/viorapackhub/releases) sayfasından `Viora PackHub-Setup-1.1.0.exe` dosyasını indirin.
 2. Kurulumu çalıştırın (Masaüstü kısayolu otomatik oluşturulur).
 3. Uygulamayı başlatıp Minecraft launcher'ınızı bağlayın.
 
 ### 2. Taşınabilir Sürüm (Portable `.exe`)
-1. [Releases](https://github.com/1-wraith/viorapackhub/releases) sayfasından `Viora PackHub-Portable-1.0.0.exe` dosyasını indirin.
+1. [Releases](https://github.com/1-wraith/viorapackhub/releases) sayfasından `Viora PackHub-Portable-1.1.0.exe` dosyasını indirin.
 2. Kurulum gerektirmeden, USB bellekten veya istediğiniz klasörden doğrudan çift tıklayarak çalıştırın.
 
 ---
